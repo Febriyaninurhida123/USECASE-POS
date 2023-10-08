@@ -2,16 +2,16 @@
 
 ## USE CASE POS Distro Management System
 
-![image](tugas1/package1.2.png)
+![image](package1.2.png)
 ## DIAGRAM ACTIVITY POS Distro Management System
 
-![image](tugas1/GBR1.png)
+![image](GBR1.png)
 
 
-![image](tugas1/GBR2.png)
+![image](GBR2.png)
 
 
-![image](tugas1/GBR3.png)
+![image](GBR3.png)
 
 
 
@@ -19,11 +19,11 @@
 
 ## SQUENCE POS TUKANG BAKSO
 
-![image](tugas1/GBR4.png)
+![image](GBR4.png)
 
 
-![image](tugas1/GBR5.png)
+![image](GBR5.png)
 
 
-![image](tugas1/GBR6.png)
+![image](GBR6.png)
 
