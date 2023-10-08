@@ -21,11 +21,12 @@
 
 ## SQUENCE POS DISTRO MANAGEMENT SYSTEM
 
+### Proses log in
 ![image](GBR4.png)
 
-
+### Proses Transaksi
 ![image](GBR5.png)
 
-
+### Proses Tambah Produk
 ![image](GBR7.png)
 
