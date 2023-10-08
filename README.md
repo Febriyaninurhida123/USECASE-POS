@@ -1,9 +1,11 @@
 # USECASE-POS
 
-## USE CASE POS Distro Management System
+## USE CASE POS DSTRO MANAGEMENT SYSTEM
 
-![image](package1.2.png)
-## DIAGRAM ACTIVITY POS Distro Management System
+![image](Package1.2.png)
+
+
+## DIAGRAM ACTIVITY POS DISTRO MANAGEMENT SYSTEM
 
 ![image](GBR1.png)
 
@@ -17,7 +19,7 @@
 
 
 
-## SQUENCE POS TUKANG BAKSO
+## SQUENCE POS DISTRO MANAGEMENT SYSTEM
 
 ![image](GBR4.png)
 
@@ -25,5 +27,5 @@
 ![image](GBR5.png)
 
 
-![image](GBR6.png)
+![image](GBR7.png)
 
